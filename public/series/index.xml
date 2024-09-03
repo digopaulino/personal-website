@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Blowfish</title>
-    <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on Blowfish</description>
+    <title>Series on Rodrigo Paulino</title>
+    <link>http://localhost:1313/personal-website/series/</link>
+    <description>Recent content in Series on Rodrigo Paulino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>rodrigo.paulino@mail.mcgill.ca (Rodrigo Paulino)</managingEditor>
+    <webMaster>rodrigo.paulino@mail.mcgill.ca (Rodrigo Paulino)</webMaster>
+    <copyright>© 2024 Rodrigo Paulino</copyright>
+    <atom:link href="http://localhost:1313/personal-website/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

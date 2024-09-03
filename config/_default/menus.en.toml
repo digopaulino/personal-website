@@ -10,14 +10,23 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  name = "About Me"
+  weight = 10
+  pageRef = "about"
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+
+[[main]]
+  name = "Research"
+  weight = 20
+  pageRef = "research"
+
+
+[[main]]
+  pre = "github"
+  name = "GitHub"
+  url = "https://github.com/digopaulino"
+  weight = 30
 
 #[[main]]
 #  name = "example sub-menu 1"
